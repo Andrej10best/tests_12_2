@@ -1,6 +1,3 @@
-from ftplib import all_errors
-
-
 class Runner:
     def __init__(self, name, speed=5):
         self.name = name
